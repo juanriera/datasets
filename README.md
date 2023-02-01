@@ -6,4 +6,6 @@ Dataset [iris](https://es.wikipedia.org/wiki/Conjunto_de_datos_flor_iris) export
 ## pinguinos.csv
 Dataset [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/) exportado dsde R a CSV. 
 
-
+# Ejemplos
+## iris_fisher.xlsx
+Hoja Excel con el desarrollo del gráfico incluyendo lo sejemplos en el post
