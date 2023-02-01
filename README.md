@@ -10,4 +10,4 @@ Dataset [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/) exporta
 ## iris_fisher.xlsx
 Hoja Excel con el desarrollo de los ejemplos de gráfico de dispersión  que utilizan el *dataset* `iris_fisher.csv`
 ## pinguinos.xlsx
-Hoja Excel con el desarrollo del ejemplo de gráfico de dispersión basado en Power Pivot, que utiliza el*dataset* `pinguinos.csv`
+Hoja Excel con el desarrollo del ejemplo de gráfico de dispersión basado en Power Pivot, que utiliza el *dataset* `pinguinos.csv`
